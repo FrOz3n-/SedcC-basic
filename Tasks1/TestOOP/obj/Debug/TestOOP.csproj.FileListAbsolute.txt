@@ -1,0 +1,8 @@
+C:\Users\Code\Desktop\Tasks1\TestOOP\bin\Debug\TestOOP.exe.config
+C:\Users\Code\Desktop\Tasks1\TestOOP\obj\Debug\TestOOP.csprojResolveAssemblyReference.cache
+C:\Users\Code\Desktop\Tasks1\TestOOP\bin\Debug\TestOOP.exe
+C:\Users\Code\Desktop\Tasks1\TestOOP\bin\Debug\TestOOP.pdb
+C:\Users\Code\Desktop\Tasks1\TestOOP\bin\Debug\Model.dll
+C:\Users\Code\Desktop\Tasks1\TestOOP\bin\Debug\Model.pdb
+C:\Users\Code\Desktop\Tasks1\TestOOP\obj\Debug\TestOOP.exe
+C:\Users\Code\Desktop\Tasks1\TestOOP\obj\Debug\TestOOP.pdb

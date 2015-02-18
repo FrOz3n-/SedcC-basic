@@ -1,0 +1,8 @@
+C:\Users\Code\Desktop\Tasks1\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Code\Desktop\Tasks1\Shapes\bin\Debug\Shapes.exe
+C:\Users\Code\Desktop\Tasks1\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Code\Desktop\Tasks1\Shapes\bin\Debug\Model.dll
+C:\Users\Code\Desktop\Tasks1\Shapes\bin\Debug\Model.pdb
+C:\Users\Code\Desktop\Tasks1\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Code\Desktop\Tasks1\Shapes\obj\Debug\Shapes.exe
+C:\Users\Code\Desktop\Tasks1\Shapes\obj\Debug\Shapes.pdb

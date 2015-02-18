@@ -1,0 +1,8 @@
+C:\Users\Code\Desktop\Tasks1\Task3\bin\Debug\Task3.exe.config
+C:\Users\Code\Desktop\Tasks1\Task3\bin\Debug\Task3.exe
+C:\Users\Code\Desktop\Tasks1\Task3\bin\Debug\Task3.pdb
+C:\Users\Code\Desktop\Tasks1\Task3\bin\Debug\Model.dll
+C:\Users\Code\Desktop\Tasks1\Task3\bin\Debug\Model.pdb
+C:\Users\Code\Desktop\Tasks1\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Code\Desktop\Tasks1\Task3\obj\Debug\Task3.exe
+C:\Users\Code\Desktop\Tasks1\Task3\obj\Debug\Task3.pdb

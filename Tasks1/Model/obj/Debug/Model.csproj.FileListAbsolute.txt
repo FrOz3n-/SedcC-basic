@@ -1,0 +1,4 @@
+C:\Users\Code\Desktop\Tasks1\Model\bin\Debug\Model.dll
+C:\Users\Code\Desktop\Tasks1\Model\bin\Debug\Model.pdb
+C:\Users\Code\Desktop\Tasks1\Model\obj\Debug\Model.dll
+C:\Users\Code\Desktop\Tasks1\Model\obj\Debug\Model.pdb

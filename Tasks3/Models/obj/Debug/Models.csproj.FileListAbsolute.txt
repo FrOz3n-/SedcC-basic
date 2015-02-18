@@ -1,0 +1,5 @@
+C:\Users\Code\Desktop\Tasks3\Models\bin\Debug\Models.dll
+C:\Users\Code\Desktop\Tasks3\Models\bin\Debug\Models.pdb
+C:\Users\Code\Desktop\Tasks3\Models\obj\Debug\Models.dll
+C:\Users\Code\Desktop\Tasks3\Models\obj\Debug\Models.pdb
+C:\Users\Code\Desktop\Tasks3\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
